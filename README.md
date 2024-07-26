@@ -1,8 +1,7 @@
 # A* maze solver
 A star algorithm implementation for maze solution problem.
 
-Task (in Polish):
-
+## Task (in PL):
 
 ## Opis
 Dany jest labirynt o rozmiarze n na m pól gdzie 2 <= n 1024 i  2 <= m < 1024. Wyjściem z labiryntu są 4 środkowe pola. Jeśli liczba pól w wierszu/kolumnie jest nieparzysta, to wyjściem jest środkowe pole oraz pole po lewej/powyżej środkowego pola.
