@@ -68,5 +68,6 @@ Labirynt jest definiowany w pliku tekstowym w którym w kolejnych liniach są za
  ![maze 6x6](maza_example_6x6.png)
 
 Task Source:
-# AISDI zadanie grafowe -  eksploracja labiryntu
+Warsaw University of Technology
+AISDI zadanie grafowe -  eksploracja labiryntu
 Waldemar Grabski <waldemar.grabski@pw.edu.pl>
