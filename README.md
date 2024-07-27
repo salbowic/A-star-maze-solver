@@ -1,5 +1,5 @@
 # A* maze solver
-A star algorithm implementation for maze solution problem.
+A star algorithm implementation for maze problem.
 
 ## Task (in PL):
 
